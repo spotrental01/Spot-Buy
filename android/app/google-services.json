@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "43317420718",
+    "project_id": "spotbuy-fafdc",
+    "storage_bucket": "spotbuy-fafdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43317420718:android:0acd8191f18fd5bede433f",
+        "android_client_info": {
+          "package_name": "com.example.spotbuy_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43317420718-tnrufj4pbqs7o9u243qo9cqfui666ror.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUobHw-zphmbnqYZuHaqaGzLGFF_Xlqr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43317420718-tnrufj4pbqs7o9u243qo9cqfui666ror.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "43317420718-h7a2irare327hcpmeotlavtjdo2ncr9a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spotmobility.spotbuy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43317420718:android:75a3bb4b9c1c427ade433f",
+        "android_client_info": {
+          "package_name": "com.s19mobility.spotbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43317420718-e0p7k5rem68i1mrqr481l4qorhcs21du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.s19mobility.spotbuy",
+            "certificate_hash": "b65e12fea015b478c0cbb6747ac32a7579668fac"
+          }
+        },
+        {
+          "client_id": "43317420718-ff7avpldp56fnv512710iv2ouppjrv7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.s19mobility.spotbuy",
+            "certificate_hash": "3882b51531b8c7fc2f885ce286f787dd98bbca3e"
+          }
+        },
+        {
+          "client_id": "43317420718-qdgpocljojq9l7qhfb2j3g1o1nfs8o4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.s19mobility.spotbuy",
+            "certificate_hash": "22dcffd1e055fdb63565f7dae7adf82c737b642f"
+          }
+        },
+        {
+          "client_id": "43317420718-tnrufj4pbqs7o9u243qo9cqfui666ror.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUobHw-zphmbnqYZuHaqaGzLGFF_Xlqr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43317420718-tnrufj4pbqs7o9u243qo9cqfui666ror.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "43317420718-h7a2irare327hcpmeotlavtjdo2ncr9a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spotmobility.spotbuy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
